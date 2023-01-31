@@ -1,0 +1,1 @@
+This is an example app using docker, asp.net core and postgresql.
